@@ -54,7 +54,7 @@ emotion_detector/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/RSS401/emotion-detector.git
 cd emotion_detector
 ```
 
@@ -198,14 +198,3 @@ Edit `train_emotion_model.py` to:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [MediaPipe](https://mediapipe.dev/) for face detection
-- [TensorFlow](https://tensorflow.org/) for deep learning framework
-- [OpenCV](https://opencv.org/) for computer vision operations
-- [MobileNetV2](https://arxiv.org/abs/1801.04381) for the base model architecture 
